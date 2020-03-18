@@ -1,0 +1,12 @@
+.form {
+  display:flex;
+  flex-direction: column;
+  justify-content: center space-around;
+
+}
+
+.signform {
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 35%;
+}
